@@ -38,6 +38,6 @@
 <a href="https://github.com/NikhileshSarangpure/Smile-Selfie">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NikhileshSarangpure&repo=Smile-Selfie&theme=dark" />
 </a>
-<a href="https://github.com/NikhileshSarangpure/Thyroid-Detection">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NikhileshSarangpure&repo=Thyroid-Detection&theme=dark" />
+<a href="https://github.com/NikhileshSarangpure/Thyroid-classification-app">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NikhileshSarangpure&repo=Thyroid-classification-app&theme=dark" />
 </a>
